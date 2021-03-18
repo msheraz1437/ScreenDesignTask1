@@ -1,16 +1,16 @@
-package com.example.screendesigntask1.ui.dashboard;
+package com.example.screendesigntask1.ui.product;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class DashboardViewModel extends ViewModel {
+public class ProductViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public DashboardViewModel() {
+    public ProductViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("This is Product fragment");
     }
 
     public LiveData<String> getText() {

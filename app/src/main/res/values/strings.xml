@@ -3,4 +3,14 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_product">Product</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="rentickle">Rentickle</string>
+    <string name="gurgaon">Gurgaon</string>
+    <string name="ourCategories">Our Categories</string>
+    <string name="trending">Trending Products</string>
+    <string name="recent">Recenty Viewed Products</string>
+    <string name="coupon">Get 10% off on this product by <br/> Using Coupon Code <b>RenT10</b></string>
+
 </resources>
